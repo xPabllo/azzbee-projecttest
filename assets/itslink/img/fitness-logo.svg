@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112px"
+   height="28px"
+   viewBox="0 0 112 28"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="fitness-logo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs834">
+    <rect
+       x="31.607143"
+       y="-0.17857143"
+       width="88.392857"
+       height="41.25"
+       id="rect1436" />
+    <rect
+       x="33.392857"
+       y="3.2142857"
+       width="77.142857"
+       height="22.678571"
+       id="rect1430" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="49.420595"
+     inkscape:cy="18.534012"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata837">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1428"
+       style="font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1430);"><tspan
+         style="visibility:hidden"
+         x="33.392578"
+         y="113.47629"><tspan
+           dx="0 3.1861961 1.4101555 1.8880196 4.2239552 3.1692696"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, '">FitGee</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1434"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1436);fill:#162d50;"
+       transform="matrix(0.92461127,0,0,1,4.4354837,-0.53571429)"><tspan
+         x="31.607422"
+         y="24.151105"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Bold';fill:#162d50">FitGee</tspan></tspan></text>
+    <g
+       id="g1449"
+       transform="matrix(0.84611574,0.4193367,-0.4193367,0.84611574,9.2228776,-4.8147255)">
+      <ellipse
+         style="fill:#f2f2f2;stroke-width:9.33379"
+         id="path1442"
+         cx="13.499999"
+         cy="15.053575"
+         rx="14.258928"
+         ry="14.482142" />
+      <path
+         d="M 1.8145764,8.3310738 A 13.999975,14.313765 35.621781 0 0 4.8638296,28.11244 13.999975,14.313765 35.621781 0 0 24.580915,24.631108 13.999975,14.313765 35.621781 0 0 24.505682,7.7404679 c 0.272185,1.7441553 0.307179,2.0929152 0.671527,3.8622771 0.323748,1.571796 0.02942,3.339396 -0.572014,5.460972 -0.601406,2.121598 -4.10724,4.799771 -5.475262,5.776486 -1.367998,0.976727 -2.099113,2.579989 -2.099113,2.579989 l 2.988206,-2.538553 c 0,0 -0.252186,0.585082 -1.265266,2.581844 -1.01308,1.996762 -3.214964,2.971682 -4.999127,3.480128 C 11.970519,29.45199 10.60281,27.280907 9.3798418,25.723947 8.1567938,24.166955 6.7666708,23.426114 6.0507986,21.977266 5.3349266,20.528417 4.7161466,18.12807 4.7161466,18.12807 l -0.103119,1.542822 c 0,0 0.02887,0.509413 -1.057435,-1.43832 -1.0863075,-1.947767 -0.757355,-3.60576 -0.472211,-5.868863 0.285144,-2.263103 1.997628,-1.972002 3.228289,-1.941132 1.2306402,0.03093 2.6953692,1.916865 1.9239472,3.576341 -0.771426,1.659478 -1.8133032,2.055138 -1.8133032,2.055138 0.4377902,1.432145 1.1687352,2.200634 1.9692432,3.005797 0,0 3.3786532,1.229617 4.5717862,2.595055 0.940159,1.07587 1.078692,1.892366 1.09537,2.191327 -0.0021,-0.329519 -0.01311,-2.273572 0.01166,-3.270044 0.02699,-1.086769 0.06437,-2.42129 1.59951,-4.214163 1.535154,-1.792865 1.297933,-1.112031 1.297933,-1.112031 l 1.301936,2.379248 c 0,0 -0.89335,-3.313868 -1.41831,-4.796008 C 16.326528,11.351032 16.785328,10.02324 17.059987,8.0079279 17.334649,5.9926179 15.892473,6.8010086 13.995653,3.4950503 13.785271,3.1283887 13.571044,2.7063918 13.363014,2.2693824 a 13.999975,14.313765 35.621781 0 0 -11.5428153,6.0537599 13.999975,14.313765 35.621781 0 0 -0.00577,0.00805 z"
+         fill="#f03023"
+         id="path2"
+         style="stroke-width:0.823529" />
+    </g>
+  </g>
+</svg>
